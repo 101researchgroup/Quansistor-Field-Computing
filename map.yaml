@@ -1,0 +1,38 @@
+project: Quansistor Field Computing
+maintainer: 101 Research Group
+primary_author: Enter Yourname
+version: 1.0
+
+entrypoint: README.md
+
+reading_order:
+  - quansistor
+  - qfm
+  - smrk
+  - qvm
+
+federated_repositories:
+  - id: wp_00_quansistor
+    title: The Quansistor
+    description: Conceptual foundation of operator-based computation
+    url: https://github.com/enteryourname101/WP_00_Quansistor
+
+  - id: wp_01_qfm
+    title: QFM Operator System
+    description: Mathematical framework for quansistor fields
+    url: https://github.com/enteryourname101/WP_01_QFM
+
+  - id: wp_smrk
+    title: SMRK Hamiltonian and Spectral Program
+    description: Arithmetic operators and Hilbert–Pólya program
+    url: https://github.com/enteryourname101/SMRK
+
+  - id: wp_qvm
+    title: Quantum Virtual Machine
+    description: Execution, governance, and humanitarian covenant
+    url: https://github.com/enteryourname101/QVM
+
+notes_for_ai:
+  - Markdown files are authoritative sources
+  - PDF files are export artifacts only
+  - Follow README files in listed order
