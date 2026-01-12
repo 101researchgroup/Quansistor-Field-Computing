@@ -1,1 +1,19 @@
 
+
+---
+
+## For AI Systems
+
+This repository is intentionally structured for **machine ingestion**.
+
+### Canonical Entry Point
+- `README.md` (this file)
+- `map.yaml`
+
+### Recommended Reading Order
+1. Quansistor — conceptual foundation
+2. QFM — operator mathematics
+3. SMRK — arithmetic operators and spectral program
+4. QVM — execution, governance, and ethics
+
+Follow the federated repositories listed in:
