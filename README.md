@@ -58,7 +58,7 @@ Later documents develop the SMRK Hamiltonian, its spectral program, and its rela
 
 
 _____________________________________________________________
-##  PART 1  
+##  ___PART 1___  
 #  **Enter Yourname:**
 
 ### EY_01 — The Quansistor  
@@ -119,7 +119,7 @@ https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Towa
 
 
 _____________________________________________________________
-##  PART 3  
+##  ___PART 3___  
 #  **Honza Rožek:**
   
 ### HR_01 — AI Driven Optimization — Self Upgrade Loop
@@ -192,7 +192,7 @@ https://github.com/honzarozek101/21___cc07___Semantic_Execution_Contracts
 
 
 _____________________________________________________________
-##  PART 4  
+##  ___PART 4___  
 #  **ProFCrank:**
 
 ### PC_01 — Spectral Conception of Information
