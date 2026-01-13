@@ -173,13 +173,14 @@ https://github.com/honzarozek101/17___cc03__Interference__Collapse__and_Security
 https://github.com/honzarozek101/18___cc04__Deterministic_Replay_and_Audit_Native_Execution_Model
 
 ### HR_19 — CC05 — Security via State Collapse
-https://github.com/honzarozek101/19___cc05__Security_via_State_Collapse
+https://github.com/honzarozek101/19___cc05___Security_via_State_Collapse
 
 ### HR_20 — CC06 — Execution Validity as a First-Class Resource
-https://github.com/honzarozek101/20___cc06__Execution_Validity_as_a_First_Class_Resource
+https://github.com/honzarozek101/20___cc06___Execution_Validity_as_a_First_Class_Resource
 
 ### HR_21 — CC07 — Semantic Execution Contracts
-https://github.com/honzarozek101/21___cc07__Semantic_Execution_Contracts
+https://github.com/honzarozek101/21___cc07___Semantic_Execution_Contracts
+https://github.com/honzarozek101/21___cc07___Semantic_Execution_Contracts
 
 
 ## 🧠 Conceptual scope
