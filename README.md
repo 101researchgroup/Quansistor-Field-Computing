@@ -262,7 +262,7 @@ authors:
          - **Enter Yourname**
          - **Karel Cápek**
          - **Honza Rožek**
-         - **proFCrank**
+         - **proFCrank** -
          
 Maintained by: **101research.group**
 
