@@ -22,7 +22,6 @@ The project is intentionally distributed across multiple repositories.
 
 Project: **Quansistor Field Computing (QFC)**  
 Maintained by: **101 Research Group**  
-Primary author identity: **Enter Yourname**
 
 ---
 
