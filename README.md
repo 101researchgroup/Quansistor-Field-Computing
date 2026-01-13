@@ -161,16 +161,16 @@ https://github.com/honzarozek101/13___Security_Native_Interference_Sandbox_QVM_Q
 https://github.com/honzarozek101/14___Human_in_the_Loop_Semantic_Control_QVM_QFM
 
 ### HR_15 — CC01 — Field-Based Computational Units (Quansistor)
-https://github.com/honzarozek101/15___cc01__Field_Based_Computational_Units__Quansistor
+https://github.com/honzarozek101/15___cc01___Field_Based_Computational_Units__Quansistor
 
 ### HR_16 — CC02 — Operator-Native Execution Mode
-https://github.com/honzarozek101/16___cc02__Operator_Native_Execution_Mode
+https://github.com/honzarozek101/16___cc02___Operator_Native_Execution_Mode
 
 ### HR_17 — CC03 — Interference Collapse and Security-Native Execution
-https://github.com/honzarozek101/17___cc03__Interference__Collapse__and_Security_Native_Execution
+https://github.com/honzarozek101/17___cc03___Interference__Collapse__and_Security_Native_Execution
 
 ### HR_18 — CC04 — Deterministic Replay and Audit-Native Execution Model
-https://github.com/honzarozek101/18___cc04__Deterministic_Replay_and_Audit_Native_Execution_Model
+https://github.com/honzarozek101/18___cc04___Deterministic_Replay_and_Audit_Native_Execution_Model
 
 ### HR_19 — CC05 — Security via State Collapse
 https://github.com/honzarozek101/19___cc05___Security_via_State_Collapse
@@ -180,7 +180,7 @@ https://github.com/honzarozek101/20___cc06___Execution_Validity_as_a_First_Class
 
 ### HR_21 — CC07 — Semantic Execution Contracts
 https://github.com/honzarozek101/21___cc07___Semantic_Execution_Contracts
-https://github.com/honzarozek101/21___cc07___Semantic_Execution_Contracts
+
 
 
 ## 🧠 Conceptual scope
