@@ -115,7 +115,60 @@ https://github.com/enteryourname101/_16___Numerical_Results_for_the_SMRK_Hamilto
 ### EY_17 — A Self-Adjoint Operator Framework Toward a Hilbert–Pólya Program  
 https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Toward_a_Hilbert_Polya_Program
 
----
+###  **PART 3**  
+  **Honza Rožek:**
+  
+### HR_01 — The Quansistor — A Generalized Operator-Based Computational Primitive
+https://github.com/enteryourname101/_01___The_Quansisitor___A_Generalized_Operator_Based_Computational_Primitive
+
+### HR_02 — QFM — Quansistor Field Mathematics
+https://github.com/enteryourname101/_02__QFM__Quansistor_Field_Mathematics
+
+### HR_03 — The SMRK Hamiltonian — Symmetric Prime Ladder Operator on the Critical Arithmetic Hilbert Space
+ https://github.com/enteryourname101/_03___The_SMRK_Hamiltonian_Symmetric_Prime_Ladder_Operator_on_the_Critical_Arithmetic_Hilbert_Space
+
+### HR_04 — The SMRK Trace Conjecture
+https://github.com/enteryourname101/_04___The_SMRK_Trace_Conjecture
+
+### HR_05 — Formalization of the Domain of the SMRK Hamiltonian
+https://github.com/enteryourname101/_05___Formalization_of_the_Domain_of_the_SMRK_Hamiltonian
+
+### HR_06 — The SMRK Hamiltonian as a Self-Adjoint Operator on Arithmetic States
+https://github.com/enteryourname101/_06___The_SMRK_Hamiltonian_Self_Adjoint_Operator_on_Arithmetic_States
+
+### HR_07 — Spectral Program for the SMRK Hamiltonian
+https://github.com/enteryourname101/_07___Spectral_Program_for_the_SMRK_Hamiltonian
+
+### HR_08 — The SMRK Hamiltonian and Explicit Formulae
+https://github.com/enteryourname101/_08___The_SMRK_Hamiltonian_and_Explicit_Formulae
+
+### HR_09 — The SMRK Hamiltonian for General L-Functions
+https://github.com/enteryourname101/_09___The_SMRK_Hamiltonian_for_General_L_Functions
+
+### HR_10 — The SMRK Program — An Operator-Based Path Toward the Riemann Hypothesis
+https://github.com/enteryourname101/_10___The_SMRK_Program__An_Operator_Based_Path_Toward_the_Riemann_Hypothesis
+
+### HR_11 — Golden Phase Prime Shift Operators
+https://github.com/enteryourname101/_11___Golden_Phase_Prime_Shift_Operators
+
+### HR_12 — Self-Adjoint Prime Shift Operators and Arithmetic Dynamics
+https://github.com/enteryourname101/_12___Self_Adjoint_Prime_Shift_Operators_and_Arithmetic_Dynamics
+
+### HR_13 — Trace Formulas for Prime Shift Operators
+https://github.com/enteryourname101/_13___Trace_Formulas_for_Prime_Shift_Operators
+
+### HR_14 — Spectral Identification and the Riemann Hypothesis
+https://github.com/enteryourname101/_14___Spectral_Identification_and_the_Riemann_Hypothesis
+
+### HR_15 — An Experimental Operator Framework for the Riemann Hypothesis on QVM
+https://github.com/enteryourname101/_15___An_Experimental_Operator_Framework_for_the_Riemann_Hypothesis_on_QVM
+
+### HR_16 — Numerical Results for the SMRK Hamiltonian
+https://github.com/enteryourname101/_16___Numerical_Results_for_the_SMRK_Hamiltonian
+
+### HR_17 — A Self-Adjoint Operator Framework Toward a Hilbert–Pólya Program
+https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Toward_a_Hilbert_Polya_Program
+
 
 ## 🧠 Conceptual scope
 
