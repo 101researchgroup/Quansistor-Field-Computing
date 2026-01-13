@@ -56,7 +56,7 @@ Later documents develop the SMRK Hamiltonian, its spectral program, and its rela
 
 ## 📚 Corpus index (authoritative repositories)
 
-###  **PART 1**  
+##  PART 1  
 #  **Enter Yourname:**
 
 ### EY_01 — The Quansistor  
@@ -115,7 +115,7 @@ https://github.com/enteryourname101/_16___Numerical_Results_for_the_SMRK_Hamilto
 ### EY_17 — A Self-Adjoint Operator Framework Toward a Hilbert–Pólya Program  
 https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Toward_a_Hilbert_Polya_Program
 
-###  **PART 3**  
+##  PART 3  
 #  **Honza Rožek:**
   
 ### HR_01 — AI Driven Optimization — Self Upgrade Loop
@@ -186,7 +186,7 @@ https://github.com/honzarozek101/20___cc06___Execution_Validity_as_a_First_Class
 ### HR_21 — CC07 — Semantic Execution Contracts
 https://github.com/honzarozek101/21___cc07___Semantic_Execution_Contracts
 
-###  **PART 4**  
+##  PART 4  
 #  **ProFCrank:**
 
 ### PC_01 — Spectral Conception of Information
