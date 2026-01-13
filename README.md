@@ -122,43 +122,48 @@ https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Towa
 https://github.com/honzarozek101/01___AI_Driven_Optimization___Self_Upgrade_Loop
 
 ### HR_02 — Distributed Security AML Analytics — Suspicious Transaction Detection
-https://github.com/honzarozek101/02___Distributed_Security__AML_Analytics__Suspicious_Transaction_Detection
+https://github.com/honzarozek101/02___Distributed_Security__AML_Analytics___Suspicious_Transaction_Detection
+
 
 ### HR_03 — Governed Adaptive Upgrade Mechanism for Structural AML Systems
 https://github.com/honzarozek101/03___Governed_Adaptive_Upgrade_Mechanism_for_Structural_AML_Systems
 
 ### HR_04 — QVM Interference Optimization Engine
-https://github.com/honzarozek101/04___QVM_Interference_Optimization_Engine
+https://github.com/honzarozek101/04____QVM_Interference_Optimization_Engine
+
 
 ### HR_05 — AGI Based Optimization on Distributed Classical Systems
-https://github.com/honzarozek101/05___AGI__Based_Optimization_on_Distributed_Classical_Systems
+https://github.com/honzarozek101/05______AGI___Based_Optimization_on_Distributed_Classical_Systems
+
 
 ### HR_06 — QWASM — A Quantum Inspired Deterministic WebAssembly Extension
-https://github.com/honzarozek101/06___QWASM__A_Quantum_Inspired__Deterministic_WebAssembly_Extension
+https://github.com/honzarozek101/06____QWASM__A_Quantum_Inspired__Deterministic_WebAssembly_Extension
 
 ### HR_07 — Quantum Walk Simulation on the QVM Architecture
-https://github.com/honzarozek101/07___Quantum_Walk_Simulation_on_the_QVM_Architecture
+https://github.com/honzarozek101/07____Quantum_Walk_Simulation_on_the_QVM_Architecture
+
 
 ### HR_08 — QVM QFM Fourier Transform — Distributed Operator-Based Fourier Analysis on QFM
-https://github.com/honzarozek101/08___QVM_QFM_Fourier_Transform__Distributed_Operator_Based_Fourier_Analysis_on_QFM
+https://github.com/honzarozek101/08_____QVM_QFM_Fourier_Transform__Distributed_Operator_Based_Fourier_Analysis_on_QFM
+
 
 ### HR_09 — QVM ISA — A Quantum Inspired Instruction Set Architecture for Deterministic Distributed Compute
-https://github.com/honzarozek101/09___QVM_ISA__A_Quantum_Inspired_Instruction_Set_Architecture_for_Deterministic_Distributed_Compute
+https://github.com/honzarozek101/09_____QVM_ISA__A_Quantum_Inspired_Instruction_Set_Architecture_for_Deterministic_Distributed_Comput
 
 ### HR_10 — Deterministic Replay — Legal Verifiability Layer (QVM / QFM)
-https://github.com/honzarozek101/10___Deterministic_Replay__Legal_Verifiability_Layer_QVM_QFM
+https://github.com/honzarozek101/10_____Deterministic_Replay___Legal_Verifiability_Layer__QVM_QFM
 
 ### HR_11 — Causal Ordering — Time Semantics
-https://github.com/honzarozek101/11___Causal_Ordering__Time_Semantics
+https://github.com/honzarozek101/11____Causal_Ordering___Time_Semantics
 
 ### HR_12 — QFM Energy Cost and Entropy Accounting
 https://github.com/honzarozek101/12____QFM_Energy__Cost__and_Entropy_Accounting
 
 ### HR_13 — Security-Native Interference Sandbox (QVM / QFM)
-https://github.com/honzarozek101/13____Security_Native_Interference_Sandbox_QVM_QFM
+https://github.com/honzarozek101/13___Security_Native_Interference_Sandbox__QVM_QFM_
 
 ### HR_14 — Human in the Loop — Semantic Control (QVM / QFM)
-https://github.com/honzarozek101/14____Human_in_the_Loop_Semantic_Control_QVM_QFM
+https://github.com/honzarozek101/14_____Human_in_the_Loop_Semantic_Control__QVM_QFM
 
 ### HR_15 — CC01 — Field-Based Computational Units (Quansistor)
 https://github.com/honzarozek101/15___cc01___Field_Based_Computational_Units__Quansistor
