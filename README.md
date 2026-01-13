@@ -192,46 +192,46 @@ https://github.com/honzarozek101/21___cc07___Semantic_Execution_Contracts
 ### PC_01 — Spectral Conception of Information
 https://github.com/proFCrank101/01---Spectral-Conception-of-Information
 
-PC_02 — Quansistor vs. Quantum Entanglement
+### PC_02 — Quansistor vs. Quantum Entanglement
 https://github.com/proFCrank101/02---Quansistor-vs.-Quantum-Entanglement
 
-PC_03 — Quansistor as a Local Causal Information Compressor
+### PC_03 — Quansistor as a Local Causal Information Compressor
 https://github.com/proFCrank101/03---Quansistor-as-a-Local-Causal-Information-Compressor
 
-PC_04 — Qengine 2D — Quansistor Field Simulator
+### PC_04 — Qengine 2D — Quansistor Field Simulator
 https://github.com/proFCrank101/04---Qengine-2D---Quansistor-Field-Simulator
 
-PC_05 — Qengine 3D — Volumetric Substrate
+### PC_05 — Qengine 3D — Volumetric Substrate
 https://github.com/proFCrank101/05---Qengine-3D---Volumetric-Substrate
 
-PC_06 — Relativistic Operator Geometry in Quansistor Field Mathematics
+### PC_06 — Relativistic Operator Geometry in Quansistor Field Mathematics
 https://github.com/proFCrank101/06---Relativistic-Operator-Geometry-in-Quansistor-Field-Mathematics
 
-PC_07 — The Algorithmic Reconstruction Principle in Operator Geometry
+### PC_07 — The Algorithmic Reconstruction Principle in Operator Geometry
 https://github.com/proFCrank101/07---The-Algorithmic-Reconstruction-Principle-in-Operator-Geometry
 
-PC_08 — A Structural Time Operator for Operator-First Systems
+### PC_08 — A Structural Time Operator for Operator-First Systems
 https://github.com/proFCrank101/08---A-Structural-Time-Operator-for-Operator-First-Systems
 
-PC_09 — Unified Spectral Theory of Fields
+### PC_09 — Unified Spectral Theory of Fields
 https://github.com/proFCrank101/09---Unified-Spectral-Theory-of-Fields
 
-PC_10 — The Fine Structure Constant as a Spectral Extremum
+### PC_10 — The Fine Structure Constant as a Spectral Extremum
 https://github.com/proFCrank101/10---The-Fine-Structure-Constant-as-a-Spectral-Extremum
 
-PC_11 — QVM as a Spectral Substrate for Cosmological Modeling
+### PC_11 — QVM as a Spectral Substrate for Cosmological Modeling
 https://github.com/proFCrank101/11---QVM-as-a-Spectral-Substrate-for-Cosmological-Modeling
 
-PC_12 — Dark Matter and Dark Energy as Spectral Residuals
+### PC_12 — Dark Matter and Dark Energy as Spectral Residuals
 https://github.com/proFCrank101/12---Dark-Matter-and-Dark-Energy-as-Spectral-Residuals
 
-PC_13 — Prime-Structured Cosmology and Spectral Inflation
+### PC_13 — Prime-Structured Cosmology and Spectral Inflation
 https://github.com/proFCrank101/13---Prime-Structured-Cosmology-and-Spectral-Inflation
 
-PC_14 — Quantum Gravity and Holography as Spectral Geometry
+### PC_14 — Quantum Gravity and Holography as Spectral Geometry
 https://github.com/proFCrank101/14---Quantum-Gravity-and-Holography-as-Spectral-Geometry
 
-PC_15 — Metastable Spectral Configurations in Classical Fields
+### PC_15 — Metastable Spectral Configurations in Classical Fields
 https://github.com/proFCrank101/15---Metastable-Spectral-Configurations-in-Classical-Fields
 
 
