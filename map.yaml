@@ -1,103 +1,382 @@
 project: Quansistor Field Computing
-maintainer: 101research.group
-primary_author: 101research.group
-version: 1.0
+acronym: QFC
 
-entrypoint: README.md
+maintainer: 101research.group
+established: Q4 2025
+
+canonical_entrypoint:
+  repository: Quansistor-Field-Computing
+  role: hub_index
+  audience:
+    - humans
+    - ai_systems
+
+authoritative_rules:
+  markdown_is_authoritative: true
+  pdf_is_export_only: true
+  follow_reading_order: true
 
 reading_order:
-  - quansistor
-  - qfm
-  - smrk
-  - qvm
+  - EY_01
+  - EY_02
+  - EY_03
+  - EY_04
+  - EY_05
+  - EY_06
+  - EY_07
+  - EY_08
+  - EY_09
+  - EY_10
+  - EY_11
+  - EY_12
+  - EY_13
+  - EY_14
+  - EY_15
+  - EY_16
+  - EY_17
+  - KC_00
+  - KC_01
+  - KC_02
+  - KC_03
+  - KC_04
+  - KC_05
+  - KC_06
+  - KC_07
+  - KC_08
+  - HR_01
+  - HR_02
+  - HR_03
+  - HR_04
+  - HR_05
+  - HR_06
+  - HR_07
+  - HR_08
+  - HR_09
+  - HR_10
+  - HR_11
+  - HR_12
+  - HR_13
+  - HR_14
+  - HR_15
+  - HR_16
+  - HR_17
+  - HR_18
+  - HR_19
+  - HR_20
+  - HR_21
+  - PC_01
+  - PC_02
+  - PC_03
+  - PC_04
+  - PC_05
+  - PC_06
+  - PC_07
+  - PC_08
+  - PC_09
+  - PC_10
+  - PC_11
+  - PC_12
+  - PC_13
+  - PC_14
+  - PC_15
 
-federated_repositories:
-  - id: EY_01
-    title: The Quansistor
-    description: Conceptual foundation of operator-based computation
-    url: https://github.com/enteryourname101/_01___The_Quansisitor___A_Generalized_Operator_Based_Computational_Primitive
+parts:
 
-  - id: EY_02
-    title: QFM — Quansistor Field Mathematics
-    description: Mathematical framework for quansistor fields
-    url: https://github.com/enteryourname101/_02__QFM__Quansistor_Field_Mathematics
+  PART_1:
+    author: Enter Yourname
+    scope: mathematical_foundation_and_spectral_theory
+    documents:
+      EY_01:
+        title: The Quansistor
+        subtitle: A Generalized Operator-Based Computational Primitive
+        url: https://github.com/enteryourname101/_01___The_Quansisitor___A_Generalized_Operator_Based_Computational_Primitive
 
-  - id: EY_03
-    title: SMRK Hamiltonian — Symmetric Prime Ladder Operator
-    description: Critical arithmetic Hilbert space and prime-ladder construction
-    url: https://github.com/enteryourname101/_03___The_SMRK_Hamiltonian_Symmetric_Prime_Ladder_Operator_on_the_Critical_Arithmetic_Hilbert_Space
+      EY_02:
+        title: QFM
+        subtitle: Quansistor Field Mathematics
+        url: https://github.com/enteryourname101/_02__QFM__Quansistor_Field_Mathematics
 
-  - id: EY_04
-    title: The SMRK Trace Conjecture
-    description: Trace invariants and conjectural constraints for the SMRK program
-    url: https://github.com/enteryourname101/_04___The_SMRK_Trace_Conjecture
+      EY_03:
+        title: The SMRK Hamiltonian
+        subtitle: Symmetric Prime Ladder Operator on the Critical Arithmetic Hilbert Space
+        url: https://github.com/enteryourname101/_03___The_SMRK_Hamiltonian_Symmetric_Prime_Ladder_Operator_on_the_Critical_Arithmetic_Hilbert_Space
 
-  - id: EY_05
-    title: Formalization of the Domain of the SMRK Hamiltonian
-    description: Domain specification, essential self-adjointness strategy, and functional setup
-    url: https://github.com/enteryourname101/_05___Formalization_of_the_Domain_of_the_SMRK_Hamiltonian
+      EY_04:
+        title: The SMRK Trace Conjecture
+        url: https://github.com/enteryourname101/_04___The_SMRK_Trace_Conjecture
 
-  - id: EY_06
-    title: The SMRK Hamiltonian — Self-Adjoint Operator on Arithmetic States
-    description: Self-adjoint operator model acting on arithmetic states
-    url: https://github.com/enteryourname101/_06___The_SMRK_Hamiltonian_Self_Adjoint_Operator_on_Arithmetic_States
+      EY_05:
+        title: Formalization of the Domain of the SMRK Hamiltonian
+        url: https://github.com/enteryourname101/_05___Formalization_of_the_Domain_of_the_SMRK_Hamiltonian
 
-  - id: EY_07
-    title: Spectral Program for the SMRK Hamiltonian
-    description: Spectral objectives, resolvents, and programmatic constraints
-    url: https://github.com/enteryourname101/_07___Spectral_Program_for_the_SMRK_Hamiltonian
+      EY_06:
+        title: The SMRK Hamiltonian as a Self-Adjoint Operator
+        subtitle: On Arithmetic States
+        url: https://github.com/enteryourname101/_06___The_SMRK_Hamiltonian_Self_Adjoint_Operator_on_Arithmetic_States
 
-  - id: EY_08
-    title: The SMRK Hamiltonian and Explicit Formulae
-    description: Operator-theoretic bridge to explicit formulae and spectral sums
-    url: https://github.com/enteryourname101/_08___The_SMRK_Hamiltonian_and_Explicit_Formulae
+      EY_07:
+        title: Spectral Program for the SMRK Hamiltonian
+        url: https://github.com/enteryourname101/_07___Spectral_Program_for_the_SMRK_Hamiltonian
 
-  - id: EY_09
-    title: The SMRK Hamiltonian for General L-Functions
-    description: Extensions of the SMRK construction beyond zeta to general L-functions
-    url: https://github.com/enteryourname101/_09___The_SMRK_Hamiltonian_for_General_L_Functions
+      EY_08:
+        title: The SMRK Hamiltonian and Explicit Formulae
+        url: https://github.com/enteryourname101/_08___The_SMRK_Hamiltonian_and_Explicit_Formulae
 
-  - id: EY_10
-    title: The SMRK Program — An Operator-Based Path Toward the Riemann Hypothesis
-    description: Program-level synthesis and roadmap toward RH via self-adjointness and spectrum
-    url: https://github.com/enteryourname101/_10___The_SMRK_Program__An_Operator_Based_Path_Toward_the_Riemann_Hypothesis
+      EY_09:
+        title: The SMRK Hamiltonian for General L-Functions
+        url: https://github.com/enteryourname101/_09___The_SMRK_Hamiltonian_for_General_L_Functions
 
-  - id: EY_11
-    title: Golden Phase Prime Shift Operators
-    description: Prime-shift dynamics with golden-phase gauge structure
-    url: https://github.com/enteryourname101/_11___Golden_Phase_Prime_Shift_Operators
+      EY_10:
+        title: The SMRK Program
+        subtitle: An Operator-Based Path Toward the Riemann Hypothesis
+        url: https://github.com/enteryourname101/_10___The_SMRK_Program__An_Operator_Based_Path_Toward_the_Riemann_Hypothesis
 
-  - id: EY_12
-    title: Self-Adjoint Prime Shift Operators and Arithmetic Dynamics
-    description: Self-adjointness conditions and induced arithmetic dynamics
-    url: https://github.com/enteryourname101/_12___Self_Adjoint_Prime_Shift_Operators_and_Arithmetic_Dynamics
+      EY_11:
+        title: Golden Phase Prime Shift Operators
+        url: https://github.com/enteryourname101/_11___Golden_Phase_Prime_Shift_Operators
 
-  - id: EY_13
-    title: Trace Formulas for Prime Shift Operators
-    description: Trace identities and spectral trace formula machinery for prime shifts
-    url: https://github.com/enteryourname101/_13___Trace_Formulas_for_Prime_Shift_Operators
+      EY_12:
+        title: Self-Adjoint Prime Shift Operators and Arithmetic Dynamics
+        url: https://github.com/enteryourname101/_12___Self_Adjoint_Prime_Shift_Operators_and_Arithmetic_Dynamics
 
-  - id: EY_14
-    title: Spectral Identification and the Riemann Hypothesis
-    description: Identifying RH-relevant spectral signatures and constraints
-    url: https://github.com/enteryourname101/_14___Spectral_Identification_and_the_Riemann_Hypothesis
+      EY_13:
+        title: Trace Formulas for Prime Shift Operators
+        url: https://github.com/enteryourname101/_13___Trace_Formulas_for_Prime_Shift_Operators
 
-  - id: EY_15
-    title: An Experimental Operator Framework for the Riemann Hypothesis on QVM
-    description: Experimental implementation pathway and QVM-oriented operator testing
-    url: https://github.com/enteryourname101/_15___An_Experimental_Operator_Framework_for_the_Riemann_Hypothesis_on_QVM
+      EY_14:
+        title: Spectral Identification and the Riemann Hypothesis
+        url: https://github.com/enteryourname101/_14___Spectral_Identification_and_the_Riemann_Hypothesis
 
-  - id: EY_16
-    title: Numerical Results for the SMRK Hamiltonian
-    description: Numerical experiments, spectra probes, and computational evidence
-    url: https://github.com/enteryourname101/_16___Numerical_Results_for_the_SMRK_Hamiltonian
+      EY_15:
+        title: An Experimental Operator Framework for the Riemann Hypothesis on QVM
+        url: https://github.com/enteryourname101/_15___An_Experimental_Operator_Framework_for_the_Riemann_Hypothesis_on_QVM
 
-  - id: EY_17
-    title: A Self-Adjoint Operator Framework Toward a Hilbert–Pólya Program
-    description: Operator framework consolidating Hilbert–Pólya objectives in the SMRK setting
-    url: https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Toward_a_Hilbert_Polya_Program
+      EY_16:
+        title: Numerical Results for the SMRK Hamiltonian
+        url: https://github.com/enteryourname101/_16___Numerical_Results_for_the_SMRK_Hamiltonian
 
-notes_for_ai:
-  - Markdown files are authoritative sources
-  - PDF files are export artifacts only
-  - Follow README files in listed order
+      EY_17:
+        title: A Self-Adjoint Operator Framework Toward a Hilbert–Pólya Program
+        url: https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Toward_a_Hilbert_Polya_Program
+
+  PART_2:
+    author: Karel Cápek
+    scope: qvm_and_execution_architecture
+    documents:
+      KC_00:
+        title: The Quansistor in the Internet Computer Architecture
+        url: https://github.com/karelcapek101/00_The_Quansistor_in_the_Internet_Computer_Architecture
+
+      KC_01:
+        title: QFM Operator System
+        url: https://github.com/karelcapek101/01_QFM_Operator_System
+
+      KC_02:
+        title: Quantum Field Processor
+        url: https://github.com/karelcapek101/02_Quantum_Field_Processor
+
+      KC_03:
+        title: Quantum Processing Unit
+        url: https://github.com/karelcapek101/03_Quantum_Processing_Unit
+
+      KC_04:
+        title: Quantum Virtual Machine Runtime
+        url: https://github.com/karelcapek101/04_Quantum_Virtual_Machine_Runtime
+
+      KC_05:
+        title: QWASM Specification
+        url: https://github.com/karelcapek101/05_QWASM_Specification
+
+      KC_06:
+        title: Orchestrator
+        url: https://github.com/karelcapek101/06_Orchestrator
+
+      KC_07:
+        title: Emergent Quantum-Like Behavior Without Physical Qubits
+        url: https://github.com/karelcapek101/07_Emergent_Quantum_Like_Behavior_Without_Physical_Qubits
+
+      KC_08:
+        title: Sharded Storage
+        url: https://github.com/karelcapek101/08_Sharded_Storage
+
+  PART_3:
+    author: Honza Rožek
+    scope: governed_execution_and_security
+    documents:
+
+      HR_01:
+        title: AI Driven Optimization
+        subtitle: Self Upgrade Loop
+        url: https://github.com/honzarozek101/01___AI_Driven_Optimization___Self_Upgrade_Loop
+
+      HR_02:
+        title: Distributed Security AML Analytics
+        subtitle: Suspicious Transaction Detection
+        url: https://github.com/honzarozek101/02___Distributed_Security__AML_Analytics___Suspicious_Transaction_Detection
+
+      HR_03:
+        title: Governed Adaptive Upgrade Mechanism
+        subtitle: for Structural AML Systems
+        url: https://github.com/honzarozek101/03___Governed_Adaptive_Upgrade_Mechanism_for_Structural_AML_Systems
+
+      HR_04:
+        title: QVM Interference Optimization Engine
+        url: https://github.com/honzarozek101/04____QVM_Interference_Optimization_Engine
+
+      HR_05:
+        title: AGI Based Optimization
+        subtitle: on Distributed Classical Systems
+        url: https://github.com/honzarozek101/05______AGI___Based_Optimization_on_Distributed_Classical_Systems
+
+      HR_06:
+        title: QWASM
+        subtitle: A Quantum Inspired Deterministic WebAssembly Extension
+        url: https://github.com/honzarozek101/06____QWASM__A_Quantum_Inspired__Deterministic_WebAssembly_Extension
+
+      HR_07:
+        title: Quantum Walk Simulation
+        subtitle: on the QVM Architecture
+        url: https://github.com/honzarozek101/07____Quantum_Walk_Simulation_on_the_QVM_Architecture
+
+      HR_08:
+        title: QVM QFM Fourier Transform
+        subtitle: Distributed Operator-Based Fourier Analysis on QFM
+        url: https://github.com/honzarozek101/08_____QVM_QFM_Fourier_Transform__Distributed_Operator_Based_Fourier_Analysis_on_QFM
+
+      HR_09:
+        title: QVM ISA
+        subtitle: A Quantum Inspired Instruction Set Architecture for Deterministic Distributed Compute
+        url: https://github.com/honzarozek101/09_____QVM_ISA__A_Quantum_Inspired_Instruction_Set_Architecture_for_Deterministic_Distributed_Compute
+
+      HR_10:
+        title: Deterministic Replay
+        subtitle: Legal Verifiability Layer (QVM / QFM)
+        url: https://github.com/honzarozek101/10_____Deterministic_Replay___Legal_Verifiability_Layer__QVM_QFM
+
+      HR_11:
+        title: Causal Ordering
+        subtitle: Time Semantics
+        url: https://github.com/honzarozek101/11____Causal_Ordering___Time_Semantics
+
+      HR_12:
+        title: QFM Energy Cost and Entropy Accounting
+        url: https://github.com/honzarozek101/12____QFM_Energy__Cost__and_Entropy_Accounting
+
+      HR_13:
+        title: Security-Native Interference Sandbox
+        subtitle: QVM / QFM
+        url: https://github.com/honzarozek101/13___Security_Native_Interference_Sandbox__QVM_QFM_
+
+      HR_14:
+        title: Human in the Loop
+        subtitle: Semantic Control (QVM / QFM)
+        url: https://github.com/honzarozek101/14_____Human_in_the_Loop_Semantic_Control__QVM_QFM
+
+      HR_15:
+        title: CC01
+        subtitle: Field-Based Computational Units (Quansistor)
+        url: https://github.com/honzarozek101/15___cc01___Field_Based_Computational_Units__Quansistor
+
+      HR_16:
+        title: CC02
+        subtitle: Operator-Native Execution Mode
+        url: https://github.com/honzarozek101/16___cc02___Operator_Native_Execution_Mode
+
+      HR_17:
+        title: CC03
+        subtitle: Interference Collapse and Security-Native Execution
+        url: https://github.com/honzarozek101/17___cc03___Interference__Collapse__and_Security_Native_Execution
+
+      HR_18:
+        title: CC04
+        subtitle: Deterministic Replay and Audit-Native Execution Model
+        url: https://github.com/honzarozek101/18___cc04___Deterministic_Replay_and_Audit_Native_Execution_Model
+
+      HR_19:
+        title: CC05
+        subtitle: Security via State Collapse
+        url: https://github.com/honzarozek101/19___cc05___Security_via_State_Collapse
+
+      HR_20:
+        title: CC06
+        subtitle: Execution Validity as a First-Class Resource
+        url: https://github.com/honzarozek101/20___cc06___Execution_Validity_as_a_First_Class_Resource
+
+      HR_21:
+        title: CC07
+        subtitle: Semantic Execution Contracts
+        url: https://github.com/honzarozek101/21___cc07___Semantic_Execution_Contracts
+
+  PART_4:
+    author: proFCrank
+    scope: spectral_cosmology_and_field_theory
+    documents:
+
+      PC_01:
+        title: Spectral Conception of Information
+        url: https://github.com/proFCrank101/01---Spectral-Conception-of-Information
+
+      PC_02:
+        title: Quansistor vs. Quantum Entanglement
+        url: https://github.com/proFCrank101/02---Quansistor-vs.-Quantum-Entanglement
+
+      PC_03:
+        title: Quansistor as a Local Causal Information Compressor
+        url: https://github.com/proFCrank101/03---Quansistor-as-a-Local-Causal-Information-Compressor
+
+      PC_04:
+        title: Qengine 2D
+        subtitle: Quansistor Field Simulator
+        url: https://github.com/proFCrank101/04---Qengine-2D---Quansistor-Field-Simulator
+
+      PC_05:
+        title: Qengine 3D
+        subtitle: Volumetric Substrate
+        url: https://github.com/proFCrank101/05---Qengine-3D---Volumetric-Substrate
+
+      PC_06:
+        title: Relativistic Operator Geometry
+        subtitle: in Quansistor Field Mathematics
+        url: https://github.com/proFCrank101/06---Relativistic-Operator-Geometry-in-Quansistor-Field-Mathematics
+
+      PC_07:
+        title: The Algorithmic Reconstruction Principle
+        subtitle: in Operator Geometry
+        url: https://github.com/proFCrank101/07---The-Algorithmic-Reconstruction-Principle-in-Operator-Geometry
+
+      PC_08:
+        title: A Structural Time Operator
+        subtitle: for Operator-First Systems
+        url: https://github.com/proFCrank101/08---A-Structural-Time-Operator-for-Operator-First-Systems
+
+      PC_09:
+        title: Unified Spectral Theory of Fields
+        url: https://github.com/proFCrank101/09---Unified-Spectral-Theory-of-Fields
+
+      PC_10:
+        title: The Fine Structure Constant as a Spectral Extremum
+        url: https://github.com/proFCrank101/10---The-Fine-Structure-Constant-as-a-Spectral-Extremum
+
+      PC_11:
+        title: QVM as a Spectral Substrate
+        subtitle: for Cosmological Modeling
+        url: https://github.com/proFCrank101/11---QVM-as-a-Spectral-Substrate-for-Cosmological-Modeling
+
+      PC_12:
+        title: Dark Matter and Dark Energy as Spectral Residuals
+        url: https://github.com/proFCrank101/12---Dark-Matter-and-Dark-Energy-as-Spectral-Residuals
+
+      PC_13:
+        title: Prime-Structured Cosmology
+        subtitle: and Spectral Inflation
+        url: https://github.com/proFCrank101/13---Prime-Structured-Cosmology-and-Spectral-Inflation
+
+      PC_14:
+        title: Quantum Gravity and Holography
+        subtitle: as Spectral Geometry
+        url: https://github.com/proFCrank101/14---Quantum-Gravity-and-Holography-as-Spectral-Geometry
+
+      PC_15:
+        title: Metastable Spectral Configurations in Classical Fields
+        url: https://github.com/proFCrank101/15---Metastable-Spectral-Configurations-in-Classical-Fields
+
