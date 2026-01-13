@@ -118,56 +118,68 @@ https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Towa
 ###  **PART 3**  
   **Honza Rožek:**
   
-### HR_01 — The Quansistor — A Generalized Operator-Based Computational Primitive
-https://github.com/enteryourname101/_01___The_Quansisitor___A_Generalized_Operator_Based_Computational_Primitive
+### HR_01 — AI Driven Optimization — Self Upgrade Loop
+https://github.com/honzarozek101/01___AI_Driven_Optimization___Self_Upgrade_Loop
 
-### HR_02 — QFM — Quansistor Field Mathematics
-https://github.com/enteryourname101/_02__QFM__Quansistor_Field_Mathematics
+### HR_02 — Distributed Security AML Analytics — Suspicious Transaction Detection
+https://github.com/honzarozek101/02___Distributed_Security__AML_Analytics__Suspicious_Transaction_Detection
 
-### HR_03 — The SMRK Hamiltonian — Symmetric Prime Ladder Operator on the Critical Arithmetic Hilbert Space
- https://github.com/enteryourname101/_03___The_SMRK_Hamiltonian_Symmetric_Prime_Ladder_Operator_on_the_Critical_Arithmetic_Hilbert_Space
+### HR_03 — Governed Adaptive Upgrade Mechanism for Structural AML Systems
+https://github.com/honzarozek101/03___Governed_Adaptive_Upgrade_Mechanism_for_Structural_AML_Systems
 
-### HR_04 — The SMRK Trace Conjecture
-https://github.com/enteryourname101/_04___The_SMRK_Trace_Conjecture
+### HR_04 — QVM Interference Optimization Engine
+https://github.com/honzarozek101/04___QVM_Interference_Optimization_Engine
 
-### HR_05 — Formalization of the Domain of the SMRK Hamiltonian
-https://github.com/enteryourname101/_05___Formalization_of_the_Domain_of_the_SMRK_Hamiltonian
+### HR_05 — AGI Based Optimization on Distributed Classical Systems
+https://github.com/honzarozek101/05___AGI__Based_Optimization_on_Distributed_Classical_Systems
 
-### HR_06 — The SMRK Hamiltonian as a Self-Adjoint Operator on Arithmetic States
-https://github.com/enteryourname101/_06___The_SMRK_Hamiltonian_Self_Adjoint_Operator_on_Arithmetic_States
+### HR_06 — QWASM — A Quantum Inspired Deterministic WebAssembly Extension
+https://github.com/honzarozek101/06___QWASM__A_Quantum_Inspired__Deterministic_WebAssembly_Extension
 
-### HR_07 — Spectral Program for the SMRK Hamiltonian
-https://github.com/enteryourname101/_07___Spectral_Program_for_the_SMRK_Hamiltonian
+### HR_07 — Quantum Walk Simulation on the QVM Architecture
+https://github.com/honzarozek101/07___Quantum_Walk_Simulation_on_the_QVM_Architecture
 
-### HR_08 — The SMRK Hamiltonian and Explicit Formulae
-https://github.com/enteryourname101/_08___The_SMRK_Hamiltonian_and_Explicit_Formulae
+### HR_08 — QVM QFM Fourier Transform — Distributed Operator-Based Fourier Analysis on QFM
+https://github.com/honzarozek101/08___QVM_QFM_Fourier_Transform__Distributed_Operator_Based_Fourier_Analysis_on_QFM
 
-### HR_09 — The SMRK Hamiltonian for General L-Functions
-https://github.com/enteryourname101/_09___The_SMRK_Hamiltonian_for_General_L_Functions
+### HR_09 — QVM ISA — A Quantum Inspired Instruction Set Architecture for Deterministic Distributed Compute
+https://github.com/honzarozek101/09___QVM_ISA__A_Quantum_Inspired_Instruction_Set_Architecture_for_Deterministic_Distributed_Compute
 
-### HR_10 — The SMRK Program — An Operator-Based Path Toward the Riemann Hypothesis
-https://github.com/enteryourname101/_10___The_SMRK_Program__An_Operator_Based_Path_Toward_the_Riemann_Hypothesis
+### HR_10 — Deterministic Replay — Legal Verifiability Layer (QVM / QFM)
+https://github.com/honzarozek101/10___Deterministic_Replay__Legal_Verifiability_Layer_QVM_QFM
 
-### HR_11 — Golden Phase Prime Shift Operators
-https://github.com/enteryourname101/_11___Golden_Phase_Prime_Shift_Operators
+### HR_11 — Causal Ordering — Time Semantics
+https://github.com/honzarozek101/11___Causal_Ordering__Time_Semantics
 
-### HR_12 — Self-Adjoint Prime Shift Operators and Arithmetic Dynamics
-https://github.com/enteryourname101/_12___Self_Adjoint_Prime_Shift_Operators_and_Arithmetic_Dynamics
+### HR_12 — QFM Energy Cost and Entropy Accounting
+https://github.com/honzarozek101/12___QFM_Energy__Cost__and_Entropy_Accounting
 
-### HR_13 — Trace Formulas for Prime Shift Operators
-https://github.com/enteryourname101/_13___Trace_Formulas_for_Prime_Shift_Operators
+### HR_13 — Security-Native Interference Sandbox (QVM / QFM)
+https://github.com/honzarozek101/13___Security_Native_Interference_Sandbox_QVM_QFM
 
-### HR_14 — Spectral Identification and the Riemann Hypothesis
-https://github.com/enteryourname101/_14___Spectral_Identification_and_the_Riemann_Hypothesis
+### HR_14 — Human in the Loop — Semantic Control (QVM / QFM)
+https://github.com/honzarozek101/14___Human_in_the_Loop_Semantic_Control_QVM_QFM
 
-### HR_15 — An Experimental Operator Framework for the Riemann Hypothesis on QVM
-https://github.com/enteryourname101/_15___An_Experimental_Operator_Framework_for_the_Riemann_Hypothesis_on_QVM
+### HR_15 — CC01 — Field-Based Computational Units (Quansistor)
+https://github.com/honzarozek101/15___cc01__Field_Based_Computational_Units__Quansistor
 
-### HR_16 — Numerical Results for the SMRK Hamiltonian
-https://github.com/enteryourname101/_16___Numerical_Results_for_the_SMRK_Hamiltonian
+### HR_16 — CC02 — Operator-Native Execution Mode
+https://github.com/honzarozek101/16___cc02__Operator_Native_Execution_Mode
 
-### HR_17 — A Self-Adjoint Operator Framework Toward a Hilbert–Pólya Program
-https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Toward_a_Hilbert_Polya_Program
+### HR_17 — CC03 — Interference Collapse and Security-Native Execution
+https://github.com/honzarozek101/17___cc03__Interference__Collapse__and_Security_Native_Execution
+
+### HR_18 — CC04 — Deterministic Replay and Audit-Native Execution Model
+https://github.com/honzarozek101/18___cc04__Deterministic_Replay_and_Audit_Native_Execution_Model
+
+### HR_19 — CC05 — Security via State Collapse
+https://github.com/honzarozek101/19___cc05__Security_via_State_Collapse
+
+### HR_20 — CC06 — Execution Validity as a First-Class Resource
+https://github.com/honzarozek101/20___cc06__Execution_Validity_as_a_First_Class_Resource
+
+### HR_21 — CC07 — Semantic Execution Contracts
+https://github.com/honzarozek101/21___cc07__Semantic_Execution_Contracts
 
 
 ## 🧠 Conceptual scope
