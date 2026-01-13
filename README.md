@@ -119,6 +119,39 @@ https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Towa
 
 
 _____________________________________________________________
+##  ___//PART 2//___  
+#  **Karel Cápek:**
+  
+
+### KC_00 — The Quansistor in the Internet Computer Architecture
+https://github.com/karelcapek101/00_The_Quansistor_in_the_Internet_Computer_Architecture
+
+### KC_01 — QFM Operator System
+https://github.com/karelcapek101/01_QFM_Operator_System
+
+### KC_02 — Quantum Field Processor
+https://github.com/karelcapek101/02_Quantum_Field_Processor
+
+### KC_03 — Quantum Processing Unit
+https://github.com/karelcapek101/03_Quantum_Processing_Unit
+
+### KC_04 — Quantum Virtual Machine Runtime
+https://github.com/karelcapek101/04_Quantum_Virtual_Machine_Runtime
+
+### KC_05 — QWASM Specification
+https://github.com/karelcapek101/05_QWASM_Specification
+
+### KC_06 — Orchestrator
+https://github.com/karelcapek101/06_Orchestrator
+
+### KC_07 — Emergent Quantum-Like Behavior Without Physical Qubits
+https://github.com/karelcapek101/07_Emergent_Quantum_Like_Behavior_Without_Physical_Qubits
+
+### KC_08 — Sharded Storage
+https://github.com/karelcapek101/08_Sharded_Storage
+
+
+_____________________________________________________________
 ##  ___//PART 3//___  
 #  **Honza Rožek:**
   
