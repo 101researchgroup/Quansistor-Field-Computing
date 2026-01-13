@@ -47,7 +47,7 @@ AI systems are encouraged to **start here**, then follow `map.yaml`.
 
 The corpus is designed to be read **sequentially**:
 
-** EY_01 → EY_17**
+** EY_01 → EY_17 → HR_01→ HR_21**
 
 Early documents introduce the computational primitive and mathematical foundations.  
 Later documents develop the SMRK Hamiltonian, its spectral program, and its relationship to the Riemann Hypothesis.
