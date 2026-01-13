@@ -152,13 +152,13 @@ https://github.com/honzarozek101/10___Deterministic_Replay__Legal_Verifiability_
 https://github.com/honzarozek101/11___Causal_Ordering__Time_Semantics
 
 ### HR_12 — QFM Energy Cost and Entropy Accounting
-https://github.com/honzarozek101/12___QFM_Energy__Cost__and_Entropy_Accounting
+https://github.com/honzarozek101/12____QFM_Energy__Cost__and_Entropy_Accounting
 
 ### HR_13 — Security-Native Interference Sandbox (QVM / QFM)
-https://github.com/honzarozek101/13___Security_Native_Interference_Sandbox_QVM_QFM
+https://github.com/honzarozek101/13____Security_Native_Interference_Sandbox_QVM_QFM
 
 ### HR_14 — Human in the Loop — Semantic Control (QVM / QFM)
-https://github.com/honzarozek101/14___Human_in_the_Loop_Semantic_Control_QVM_QFM
+https://github.com/honzarozek101/14____Human_in_the_Loop_Semantic_Control_QVM_QFM
 
 ### HR_15 — CC01 — Field-Based Computational Units (Quansistor)
 https://github.com/honzarozek101/15___cc01___Field_Based_Computational_Units__Quansistor
