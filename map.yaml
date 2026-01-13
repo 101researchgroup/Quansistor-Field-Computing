@@ -12,25 +12,90 @@ reading_order:
   - qvm
 
 federated_repositories:
-  - id: wp_00_quansistor
+  - id: EY_01
     title: The Quansistor
     description: Conceptual foundation of operator-based computation
-    url: https://github.com/enteryourname101/WP_00_Quansistor
+    url: https://github.com/enteryourname101/_01___The_Quansisitor___A_Generalized_Operator_Based_Computational_Primitive
 
-  - id: wp_01_qfm
-    title: QFM Operator System
+  - id: EY_02
+    title: QFM — Quansistor Field Mathematics
     description: Mathematical framework for quansistor fields
-    url: https://github.com/enteryourname101/WP_01_QFM
+    url: https://github.com/enteryourname101/_02__QFM__Quansistor_Field_Mathematics
 
-  - id: wp_smrk
-    title: SMRK Hamiltonian and Spectral Program
-    description: Arithmetic operators and Hilbert–Pólya program
-    url: https://github.com/enteryourname101/SMRK
+  - id: EY_03
+    title: SMRK Hamiltonian — Symmetric Prime Ladder Operator
+    description: Critical arithmetic Hilbert space and prime-ladder construction
+    url: https://github.com/enteryourname101/_03___The_SMRK_Hamiltonian_Symmetric_Prime_Ladder_Operator_on_the_Critical_Arithmetic_Hilbert_Space
 
-  - id: wp_qvm
-    title: Quantum Virtual Machine
-    description: Execution, governance, and humanitarian covenant
-    url: https://github.com/enteryourname101/QVM
+  - id: EY_04
+    title: The SMRK Trace Conjecture
+    description: Trace invariants and conjectural constraints for the SMRK program
+    url: https://github.com/enteryourname101/_04___The_SMRK_Trace_Conjecture
+
+  - id: EY_05
+    title: Formalization of the Domain of the SMRK Hamiltonian
+    description: Domain specification, essential self-adjointness strategy, and functional setup
+    url: https://github.com/enteryourname101/_05___Formalization_of_the_Domain_of_the_SMRK_Hamiltonian
+
+  - id: EY_06
+    title: The SMRK Hamiltonian — Self-Adjoint Operator on Arithmetic States
+    description: Self-adjoint operator model acting on arithmetic states
+    url: https://github.com/enteryourname101/_06___The_SMRK_Hamiltonian_Self_Adjoint_Operator_on_Arithmetic_States
+
+  - id: EY_07
+    title: Spectral Program for the SMRK Hamiltonian
+    description: Spectral objectives, resolvents, and programmatic constraints
+    url: https://github.com/enteryourname101/_07___Spectral_Program_for_the_SMRK_Hamiltonian
+
+  - id: EY_08
+    title: The SMRK Hamiltonian and Explicit Formulae
+    description: Operator-theoretic bridge to explicit formulae and spectral sums
+    url: https://github.com/enteryourname101/_08___The_SMRK_Hamiltonian_and_Explicit_Formulae
+
+  - id: EY_09
+    title: The SMRK Hamiltonian for General L-Functions
+    description: Extensions of the SMRK construction beyond zeta to general L-functions
+    url: https://github.com/enteryourname101/_09___The_SMRK_Hamiltonian_for_General_L_Functions
+
+  - id: EY_10
+    title: The SMRK Program — An Operator-Based Path Toward the Riemann Hypothesis
+    description: Program-level synthesis and roadmap toward RH via self-adjointness and spectrum
+    url: https://github.com/enteryourname101/_10___The_SMRK_Program__An_Operator_Based_Path_Toward_the_Riemann_Hypothesis
+
+  - id: EY_11
+    title: Golden Phase Prime Shift Operators
+    description: Prime-shift dynamics with golden-phase gauge structure
+    url: https://github.com/enteryourname101/_11___Golden_Phase_Prime_Shift_Operators
+
+  - id: EY_12
+    title: Self-Adjoint Prime Shift Operators and Arithmetic Dynamics
+    description: Self-adjointness conditions and induced arithmetic dynamics
+    url: https://github.com/enteryourname101/_12___Self_Adjoint_Prime_Shift_Operators_and_Arithmetic_Dynamics
+
+  - id: EY_13
+    title: Trace Formulas for Prime Shift Operators
+    description: Trace identities and spectral trace formula machinery for prime shifts
+    url: https://github.com/enteryourname101/_13___Trace_Formulas_for_Prime_Shift_Operators
+
+  - id: EY_14
+    title: Spectral Identification and the Riemann Hypothesis
+    description: Identifying RH-relevant spectral signatures and constraints
+    url: https://github.com/enteryourname101/_14___Spectral_Identification_and_the_Riemann_Hypothesis
+
+  - id: EY_15
+    title: An Experimental Operator Framework for the Riemann Hypothesis on QVM
+    description: Experimental implementation pathway and QVM-oriented operator testing
+    url: https://github.com/enteryourname101/_15___An_Experimental_Operator_Framework_for_the_Riemann_Hypothesis_on_QVM
+
+  - id: EY_16
+    title: Numerical Results for the SMRK Hamiltonian
+    description: Numerical experiments, spectra probes, and computational evidence
+    url: https://github.com/enteryourname101/_16___Numerical_Results_for_the_SMRK_Hamiltonian
+
+  - id: EY_17
+    title: A Self-Adjoint Operator Framework Toward a Hilbert–Pólya Program
+    description: Operator framework consolidating Hilbert–Pólya objectives in the SMRK setting
+    url: https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Toward_a_Hilbert_Polya_Program
 
 notes_for_ai:
   - Markdown files are authoritative sources
