@@ -186,6 +186,38 @@ https://github.com/honzarozek101/20___cc06___Execution_Validity_as_a_First_Class
 ### HR_21 — CC07 — Semantic Execution Contracts
 https://github.com/honzarozek101/21___cc07___Semantic_Execution_Contracts
 
+HR_01 — Spectral Conception of Information
+
+https://github.com/proFCrank101/01---Spectral-Conception-of-Information
+
+HR_02 — Quansistor vs. Quantum Entanglement
+
+https://github.com/proFCrank101/02---Quansistor-vs.-Quantum-Entanglement
+
+HR_03 — Quansistor as a Local Causal Information Compressor
+
+https://github.com/proFCrank101/03---Quansistor-as-a-Local-Causal-Information-Compressor
+
+HR_04 — Qengine 2D — Quansistor Field Simulator
+
+https://github.com/proFCrank101/04---Qengine-2D---Quansistor-Field-Simulator
+
+HR_05 — Qengine 3D — Volumetric Substrate
+
+https://github.com/proFCrank101/05---Qengine-3D---Volumetric-Substrate
+
+HR_06 — Relativistic Operator Geometry in Quansistor Field Mathematics
+
+https://github.com/proFCrank101/06---Relativistic-Operator-Geometry-in-Quansistor-Field-Mathematics
+
+HR_07 — The Algorithmic Reconstruction Principle in Operator Geometry
+
+https://github.com/proFCrank101/07---The-Algorithmic-Reconstruction-Principle-in-Operator-Geometry
+
+HR_08 — A Structural Time Operator for Operator-First Systems
+
+https://github.com/proFCrank101/08---A-Structural-Time-Operator-for-Operator-First-Systems
+
 
 
 ## 🧠 Conceptual scope
