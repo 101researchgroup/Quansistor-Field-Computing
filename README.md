@@ -258,7 +258,7 @@ The corpus spans both **foundational theory** and **computational realization**.
 
 ## 📄 Licensing & authorship
 
-Primary author: **Enter Yourname**  
+authors: **Enter Yourname**,**Karel Cápek**,**Honza Rožek**,**proFCrank** 
 Maintained by: **101 Research Group**
 
 Each repository contains its own license and citation metadata.
