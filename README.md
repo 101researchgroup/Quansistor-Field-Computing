@@ -189,7 +189,7 @@ https://github.com/honzarozek101/21___cc07___Semantic_Execution_Contracts
 ###  **PART 4**  
   **ProFCrank:**
 
-PC_01 — Spectral Conception of Information
+### PC_01 — Spectral Conception of Information
 https://github.com/proFCrank101/01---Spectral-Conception-of-Information
 
 PC_02 — Quansistor vs. Quantum Entanglement
