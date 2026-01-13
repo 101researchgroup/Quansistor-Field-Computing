@@ -56,7 +56,8 @@ Later documents develop the SMRK Hamiltonian, its spectral program, and its rela
 
 ## 📚 Corpus index (authoritative repositories)
 
-###  PART 1 by Enter Yourname
+###  **PART 1**  
+  **Enter Yourname:**
 
 ### EY_01 — The Quansistor  
 **A Generalized Operator-Based Computational Primitive**  
