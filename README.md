@@ -116,7 +116,7 @@ https://github.com/enteryourname101/_16___Numerical_Results_for_the_SMRK_Hamilto
 https://github.com/enteryourname101/_17___A_Self_Adjoint_Operator_Framework_Toward_a_Hilbert_Polya_Program
 
 ###  **PART 3**  
-  **Honza Rožek:**
+#  **Honza Rožek:**
   
 ### HR_01 — AI Driven Optimization — Self Upgrade Loop
 https://github.com/honzarozek101/01___AI_Driven_Optimization___Self_Upgrade_Loop
@@ -187,7 +187,7 @@ https://github.com/honzarozek101/20___cc06___Execution_Validity_as_a_First_Class
 https://github.com/honzarozek101/21___cc07___Semantic_Execution_Contracts
 
 ###  **PART 4**  
-  **ProFCrank:**
+#  **ProFCrank:**
 
 ### PC_01 — Spectral Conception of Information
 https://github.com/proFCrank101/01---Spectral-Conception-of-Information
