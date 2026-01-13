@@ -1,6 +1,6 @@
 project: Quansistor Field Computing
-maintainer: 101 Research Group
-primary_author: Enter Yourname
+maintainer: 101research.group
+primary_author: 101research.group
 version: 1.0
 
 entrypoint: README.md
