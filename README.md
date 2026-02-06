@@ -42,7 +42,7 @@ Rules:
 
 - Project home: https://101research.group  
 - Organization: 101research.group  
-- DOI (corpus): 10.5281/zenodo.18175530  
+- DOI (corpus): 10.5281/zenodo.18493757  
 - ISBN (print): 978-80-11-08018-1  
 
 ## License / intent
