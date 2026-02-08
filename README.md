@@ -48,7 +48,8 @@ Rules:
 ## License / intent
 
 This corpus is published as a research compendium.  
-IP / licensing intent and any patent boundary statements are defined in the relevant documents and series.
+IP / licensing intent and any patent boundary statements are in license.md
+.
 
 ## Index
 
