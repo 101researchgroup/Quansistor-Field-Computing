@@ -1,38 +1,69 @@
-# License
+License
+=======
 
-© 2026 Roman Smrčka, Brno
+© 2026 101research.group
 
-## Documents and Textual Materials
+----------------------------------------------------------------------
+Documents and Textual Materials
+----------------------------------------------------------------------
 
-All documents, whitepapers, PDFs, and written materials in this repository
-are licensed under the Creative Commons
+All documents, whitepapers, PDFs, and written materials distributed
+via this canister are licensed under the Creative Commons
 Attribution–NonCommercial–NoDerivatives 4.0 International License
 (CC BY–NC–ND 4.0).
 
-You are free to read, share, and cite the materials for non-commercial purposes,
-provided appropriate attribution is given.
+You are free to:
+- Read, download, and share the materials
+- Cite the materials with proper attribution
 
-Modification, derivative works, or commercial use
-require explicit permission from the authors.
+Under the following conditions:
+- Attribution — Appropriate credit must be given to the author(s)
+- NonCommercial — The material may not be used for commercial purposes
+- NoDerivatives — The material may not be modified, adapted, or remixed
 
-## Concepts and Frameworks
+Modification, creation of derivative works, commercial use,
+rebranding, or redistribution as part of proprietary systems
+requires explicit written permission from the author.
 
-The concepts and names including (but not limited to):
+License text:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+----------------------------------------------------------------------
+Concepts and Frameworks
+----------------------------------------------------------------------
+
+The concepts, terminology, and names including (but not limited to):
 
 - Quansistor
 - Quansistor Field Computing (QFC)
 - SMRK Hamiltonian
 
 are provided for research and educational use with attribution.
-Rebranding, commercialization, or incorporation into proprietary systems
-requires explicit permission.
+Any commercialization, rebranding, or incorporation into
+commercial or proprietary systems requires explicit permission
+from the author.
 
-## Metadata and AI Navigation Files
+----------------------------------------------------------------------
+Metadata and AI Navigation Files
+----------------------------------------------------------------------
 
-Machine-readable metadata files (e.g. `qfc.map.json`, `llms.txt`)
-are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0),
-unless stated otherwise.
+Machine-readable metadata and AI navigation files, including but not
+limited to:
 
----
+- qfc.map.json
+- llms.txt
+- index.yaml
+- related metadata descriptors
 
-This licensing structure reflects the research-oriented nature of the project.
+are licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0), unless explicitly stated otherwise.
+
+----------------------------------------------------------------------
+General Note
+----------------------------------------------------------------------
+
+This licensing structure reflects the research-oriented and
+pre-publication nature of the Quansistor Field Computing project.
+
+For licensing inquiries, contact:
+101research.group@seznam.cz
